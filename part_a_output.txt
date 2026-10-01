@@ -1,0 +1,8 @@
+Organisational Hierarchy - Level Order Traversal
+------------------------------------------------
+CEO -> {HR, Finance, IT}
+IT -> {Development, Testing}
+Development -> {Frontend, Backend}
+
+Level-order traversal:
+CEO -> HR -> Finance -> IT -> Development -> Testing -> Frontend -> Backend

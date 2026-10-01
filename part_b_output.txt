@@ -1,0 +1,24 @@
+Department Search Comparison
+=============================
+
+Sorted department list:
+1. Backend
+2. Development
+3. Finance
+4. Frontend
+5. HR
+6. IT
+7. Testing
+
+Search results:
+Department   Linear Comparisons Binary Comparisons
+--------------------------------------------------------------
+Frontend     4                  1                 
+  Linear result: Found at position 4
+  Binary result: Found at position 4
+HR           5                  3                 
+  Linear result: Found at position 5
+  Binary result: Found at position 5
+Testing      7                  3                 
+  Linear result: Found at position 7
+  Binary result: Found at position 7

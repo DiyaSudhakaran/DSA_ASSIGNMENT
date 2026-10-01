@@ -1,0 +1,18 @@
+ORGANISATIONAL HIERARCHY
+CEO -> HR, Finance, IT
+IT -> Development, Testing
+Development -> Frontend, Backend
+
+DEPARTMENT LIST FOR SEARCHING (sorted for Binary Search)
+Backend
+Development
+Finance
+Frontend
+HR
+IT
+Testing
+
+SEARCH TARGETS (at least three)
+1. Frontend
+2. HR
+3. Testing
